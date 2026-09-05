@@ -11,5 +11,8 @@ int main(int argc, const char *argv[]) {
     //   Hello, OOP!
     //   C++ is ready.
 
+    std::cout << "Hello, OOP!\n";
+    std::cout << "C is ready.\n";
+
     return 0;
 }
